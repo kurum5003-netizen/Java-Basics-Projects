@@ -36,7 +36,7 @@ Kodlar sade, kısa ve anlaşılır tutulmuştur.
 ---
 ## DEVELOPER
 **AD SOYAD**: Hasan Berk Kurum
-
+**GİT HUB**:https://github.com/kurum5003-netizen
 ---
 
 ## Lisans
