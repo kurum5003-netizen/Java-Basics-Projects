@@ -34,7 +34,7 @@ Bu proje, Java’ya yeni başlayanlar için **örneklerle pratik yapmayı kolayl
 Kodlar sade, kısa ve anlaşılır tutulmuştur.  
 
 ---
-## Geliştirici
+## DEVELOPER
 **AD SOYAD**: Hasan Berk Kurum
 
 ---
