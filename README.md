@@ -34,6 +34,10 @@ Bu proje, Java’ya yeni başlayanlar için **örneklerle pratik yapmayı kolayl
 Kodlar sade, kısa ve anlaşılır tutulmuştur.  
 
 ---
+## Geliştirici
+**AD SOYAD**: Hasan Berk Kurum
+
+---
 
 ## Lisans
 Bu proje açık kaynaklıdır. İsteyen herkes kodları inceleyebilir, değiştirebilir veya kendi projelerinde kullanabilir.
