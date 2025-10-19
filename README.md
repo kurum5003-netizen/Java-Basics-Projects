@@ -40,5 +40,5 @@ Kodlar sade, kısa ve anlaşılır tutulmuştur.
 ---
 
 ## Lisans
-Bu proje açık kaynaklıdır. İsteyen herkes kodları inceleyebilir, değiştirebilir veya kendi projelerinde kullanabilir.
+Bu proje açık kaynaklıdır. İsteyen herkes kodları inceleyebilir veya kendi projelerinde kullanabilir.
 
