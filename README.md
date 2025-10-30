@@ -5,21 +5,21 @@ Amaç, Java’nın temel konularını (değişkenler, döngüler, koşullar, met
 ---
 
 ## Konular
--Değişkenler ve veri tipleri
--Koşul ifadeler(if,else...)
--Döngüler(for,while...)
--Kullanıcıdan veri alma(scanner)
--Metotlar
+- Değişkenler ve veri tipleri
+- Koşul ifadeler(if,else...)
+- Döngüler(for,while...)
+- Kullanıcıdan veri alma(scanner)
+- Metotlar
 
 ---
 
 ## Örnek projeler
--Palindrom sayı kontrolü
--Metotlarla basit hesap makinesi(overloading)
--Faktöriyel toplamı hesaplama
--Basamak sayısı kadar ters yıldız yazdırma
--Bir string ifade de rakamları kontrol edip daha sonra o rakamların toplamını yazdırma 
--N e kadar olan asal sayıları sırayla yazdırma
+- Palindrom sayı kontrolü
+- Metotlarla basit hesap makinesi(overloading)
+- Faktöriyel toplamı hesaplama
+- Basamak sayısı kadar ters yıldız yazdırma
+- Bir string ifade de rakamları kontrol edip daha sonra o rakamların toplamını yazdırma 
+- N e kadar olan asal sayıları sırayla yazdırma
 
 ---
 
