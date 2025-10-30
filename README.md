@@ -24,8 +24,8 @@ Amaç, Java’nın temel konularını (değişkenler, döngüler, koşullar, met
 ---
 
 ## Kullanılar araçlar
--**Java 25**
--**NetBeans IDE**
+- **Java 25**
+- **NetBeans IDE**
 
 ---
 
